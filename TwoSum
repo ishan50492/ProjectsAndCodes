@@ -25,4 +25,5 @@ public class ToStringConcept
 		
 		System.out.println("Indices: "+result[0]+" "+result[1]);
 	}
+
 }
